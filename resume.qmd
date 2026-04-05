@@ -55,11 +55,10 @@ SQL-Spender – Python and SQLite expense tracker
 `2026`
 NetflixNavigator – Data analysis project using Pandas
 
-
-### Patents
-
 `2026`
 CurConvert – JavaScript currency converter using APIs
+
+
 
 
 <!-- ### Footer
