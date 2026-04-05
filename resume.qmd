@@ -8,8 +8,14 @@ Computer Information Technology | Cybersecurity
 <div id="webaddress">
 <a href="mailto:reidenjohnson@gmail.com">reidenjohnson@gmail.com</a>
 | <a href="https://linkedin.com/in/reidenjohnson">LinkedIn</a>
+<!--
 | <a href="https://reidenjohnson.github.io/datascience_portfolio/resume.pdf">Download PDF</a>
+-->
+| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a> 
 </div>
+
+
+
 
 
 ## Currently
