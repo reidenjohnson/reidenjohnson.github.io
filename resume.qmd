@@ -1,88 +1,42 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Reiden Johnson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Reiden Johnson
+Computer Information Technology | Cybersecurity
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="reidenjohnson@gmail.com">reidenjohnson@gmail.com</a>
+| <a href="http://linkedin.com/in/reidenjohnson">My Linkedin page</a>
+| <a href="https://reidenjohnson.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a>
+
+<!-- || <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+-->
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior at BYU-Idaho focused on cybersecurity, data analysis, and applied systems
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Python, SQL, data analysis, cybersecurity fundamentals, Linux systems, REST APIs
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Languages, Cloud Systems, automation, efficiency, problem solving
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020 - 2026`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- B.S. Computer Information Technology
+- Minor in Russian
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
