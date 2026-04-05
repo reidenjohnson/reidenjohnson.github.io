@@ -6,27 +6,25 @@ title: Reiden Johnson's CV
 Computer Information Technology | Cybersecurity
 
 <div id="webaddress">
-<a href="reidenjohnson@gmail.com">reidenjohnson@gmail.com</a>
-| <a href="http://linkedin.com/in/reidenjohnson">My Linkedin page</a>
-| <a href="https://reidenjohnson.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a>
-
-<!-- || <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
--->
+<a href="mailto:reidenjohnson@gmail.com">reidenjohnson@gmail.com</a>
+| <a href="https://linkedin.com/in/reidenjohnson">LinkedIn</a>
+| <a href="https://reidenjohnson.github.io/datascience_portfolio/resume.pdf">Download PDF</a>
 </div>
 
 
 ## Currently
 
-Senior at BYU-Idaho focused on cybersecurity, data analysis, and applied systems
+Senior at BYU-Idaho with a focus on data, systems, and general IT.
 
 
 ### Specialized in
 
-Python, SQL, data analysis, cybersecurity fundamentals, Linux systems, REST APIs
+Python, SQL, data analysis, Linux systems, APIs, and system troubleshooting
+
 
 ### Research interests
 
-Languages, Cloud Systems, automation, efficiency, problem solving
+Understanding how systems work, improving efficiency, and solving real-world technical problems
 
 
 ## Education
@@ -38,6 +36,30 @@ __Brigham Young University - Idaho__
 - Minor in Russian
 
 
+## Awards
+
+`2026`
+AWS Certified Cloud Practitioner
+
+`2020 - 2026`
+Russian Language & Cultural Studies
+
+
+## Publications
+
+### Journals
+
+`2026`
+SQL-Spender – Python and SQLite expense tracker
+
+`2026`
+NetflixNavigator – Data analysis project using Pandas
+
+
+### Patents
+
+`2026`
+CurConvert – JavaScript currency converter using APIs
 
 
 <!-- ### Footer
